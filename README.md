@@ -16,6 +16,9 @@ Goal is to test this laptop with this system, tray difrent type of exploits, on 
 
 The target is like i said my old laptop Dell. E6320 with Win7 Vista SP1. I make some nmap thinks to know better whats going on on ports etc.: 
 
+![image](https://github.com/cierpowicz/Win7-testing/assets/106453032/37b4d945-e47e-4941-88f5-ddc8fe391de7)
+
+
 ![image](https://github.com/cierpowicz/Win7-testing/assets/106453032/9ae53436-d5c3-4c86-aad7-f48b8dbdc064)
 
 ## Step 2: Get some tunes !!!
